@@ -25,7 +25,7 @@ Com base na tabela gerada, observamos os seguintes padrões:
 ### Visualização do Grafo
 Aqui está a representação visual da rede de personagens gerada no Gephi:
 
-![Grafo de Interações - Vingadores Ultimato](grafo_vingadores.png)
+![Grafo de Interações - Vingadores Ultimato](imagem-grafo/grafico-vingadores.png)
 
 ### Principais Métricas:
 
